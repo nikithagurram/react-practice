@@ -1,0 +1,2 @@
+export const SAVE_LOGIN_INFO = "SAVE_LOGIN_INFO";
+export const SAVE_PREFERED_NAME = "SAVE_PREFERED_NAME";
